@@ -2,8 +2,7 @@
 
 Welcome back to your Terraform journey.
 
-In the previous tasks, you have learned about the basics of Terraform, its configuration file,
-and creating an EC2 instance using Terraform. Today, we will explore more about Terraform and create multiple resources.
+We will explore more about Terraform and create multiple resources.
 
 
 ##
